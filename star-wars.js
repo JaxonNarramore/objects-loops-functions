@@ -1,4 +1,4 @@
-const star-wars = {
+const starWars = {
     image: 'path to where the image is located',
     length: '60',
     title: 'Special Look | The Mandalorian',
